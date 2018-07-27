@@ -16,8 +16,8 @@
   <rootBasicNode xsi:type="AGSN:Evidence" id="_FChH4LX0EeWjNYAWtCecTQ" name="E_3" description="Assurance case (1)" qualityLevel="Medium" confidencePercentage="90"/>
   <rootBasicNode xsi:type="AGSN:Goal" id="_LEobULX0EeWjNYAWtCecTQ" name="G_7" assessstatus="Weak" description="All architectural design implement the risk reduction structure"/>
   <rootBasicNode xsi:type="AGSN:Evidence" id="_P1C2ULX0EeWjNYAWtCecTQ" name="E_4" description="Assurance case (2), (3)" qualityLevel="High" confidencePercentage="60"/>
-  <rootBasicNode xsi:type="AGSN:Goal" id="_T_myQLX0EeWjNYAWtCecTQ" name="G_8" assessstatus="Accepted" description="Implementation meet the system specification" qualityLevel="Low"/>
-  <rootBasicNode xsi:type="AGSN:Evidence" id="_Y0JfULX0EeWjNYAWtCecTQ" name="E_5" description="Assurance  case (4)" confidencePercentage="90"/>
+  <rootBasicNode xsi:type="AGSN:Goal" id="_T_myQLX0EeWjNYAWtCecTQ" name="G_8" assessstatus="Accepted" description="Implementation meet the system specification" qualityLevel="Low" beliefDegree="{(Very Low, 0.9), (Low, 0.0), (Medium, 0.0), (High, 0.0), (Very High, 0.0)}"/>
+  <rootBasicNode xsi:type="AGSN:Evidence" id="_Y0JfULX0EeWjNYAWtCecTQ" name="E_5" assessstatus="Accepted" description="Assurance  case (4)" confidencePercentage="90" beliefDegree="{(Very Low, 0.9), (Low, 0.0), (Medium, 0.0), (High, 0.0), (Very High, 0.0)}"/>
   <rootBasicNode xsi:type="AGSN:Context" id="_acZe0EjZEeaO_9_IqQ0igQ"/>
   <rootBasicLink xsi:type="AGSN:InContextOf" source="_vzfz4I98EeWRzKcI_6eVPA" target="_EjrhsLXyEeWjNYAWtCecTQ" id="_D7zYIDFeEeaRc-Gph3XN8g"/>
   <rootBasicLink xsi:type="AGSN:InContextOf" source="_vzfz4I98EeWRzKcI_6eVPA" target="_J2Z_kLXyEeWjNYAWtCecTQ" id="_D71NUDFeEeaRc-Gph3XN8g"/>

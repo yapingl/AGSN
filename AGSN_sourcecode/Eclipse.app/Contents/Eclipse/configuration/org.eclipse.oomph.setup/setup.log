@@ -1,0 +1,52 @@
+[2018-07-27 17:10:40] Executing startup tasks
+[2018-07-27 17:10:40] Java(TM) SE Runtime Environment 1.8.0-b132
+[2018-07-27 17:10:40] Product self.product.version
+[2018-07-27 17:10:40] Workspace /Users/Luna/Documents/GitHub/AGSN/Model_transformation
+[2018-07-27 17:10:40] Bundle org.eclipse.oomph.setup 1.9.0.v20180529-0916, build=3551, branch=5a7202105cdec0e9bc9553799ba330ea58714ce5
+[2018-07-27 17:10:40] Bundle org.eclipse.oomph.setup.core 1.9.0.v20180529-0916, build=3551, branch=5a7202105cdec0e9bc9553799ba330ea58714ce5
+[2018-07-27 17:10:40] Bundle org.eclipse.oomph.setup.p2 1.9.0.v20180529-0916, build=3551, branch=5a7202105cdec0e9bc9553799ba330ea58714ce5
+[2018-07-27 17:10:40] Performing Preference /instance/org.eclipse.pde.core/additional_locations = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.core/checkedPlugins = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.core/checkedVersionPlugins = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.core/external_features = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.core/implicit_dependencies = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.arch = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.nl = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.os = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.ws = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.core/pooled_bundles = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.core/pooled_urls = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.core/program_args = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.core/target.profile = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.core/target_mode = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.core/target_platform_realization = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.core/vm_args = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.core/vm_launcher_ini = 
+[2018-07-27 17:10:41] Performing Preference /instance/org.eclipse.pde.ui/Preferences.MainPage.overwriteBuildFilesOnExport = prompt
+[2018-07-27 17:10:41] 
+[2018-07-27 17:16:30] Executing startup tasks
+[2018-07-27 17:16:30] Java(TM) SE Runtime Environment 1.8.0-b132
+[2018-07-27 17:16:30] Product self.product.version
+[2018-07-27 17:16:30] Workspace /Users/Luna/Documents/GitHub/AGSN/runtime-New_configuration
+[2018-07-27 17:16:30] Bundle org.eclipse.oomph.setup 1.9.0.v20180529-0916, build=3551, branch=5a7202105cdec0e9bc9553799ba330ea58714ce5
+[2018-07-27 17:16:30] Bundle org.eclipse.oomph.setup.core 1.9.0.v20180529-0916, build=3551, branch=5a7202105cdec0e9bc9553799ba330ea58714ce5
+[2018-07-27 17:16:30] Bundle org.eclipse.oomph.setup.p2 1.9.0.v20180529-0916, build=3551, branch=5a7202105cdec0e9bc9553799ba330ea58714ce5
+[2018-07-27 17:16:30] Performing Preference /instance/org.eclipse.pde.core/additional_locations = 
+[2018-07-27 17:16:30] Performing Preference /instance/org.eclipse.pde.core/checkedPlugins = 
+[2018-07-27 17:16:30] Performing Preference /instance/org.eclipse.pde.core/checkedVersionPlugins = 
+[2018-07-27 17:16:30] Performing Preference /instance/org.eclipse.pde.core/external_features = 
+[2018-07-27 17:16:31] Performing Preference /instance/org.eclipse.pde.core/implicit_dependencies = 
+[2018-07-27 17:16:31] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.arch = 
+[2018-07-27 17:16:31] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.nl = 
+[2018-07-27 17:16:31] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.os = 
+[2018-07-27 17:16:31] Performing Preference /instance/org.eclipse.pde.core/org.eclipse.pde.ui.ws = 
+[2018-07-27 17:16:31] Performing Preference /instance/org.eclipse.pde.core/pooled_bundles = 
+[2018-07-27 17:16:31] Performing Preference /instance/org.eclipse.pde.core/pooled_urls = 
+[2018-07-27 17:16:31] Performing Preference /instance/org.eclipse.pde.core/program_args = 
+[2018-07-27 17:16:31] Performing Preference /instance/org.eclipse.pde.core/target.profile = 
+[2018-07-27 17:16:31] Performing Preference /instance/org.eclipse.pde.core/target_mode = 
+[2018-07-27 17:16:31] Performing Preference /instance/org.eclipse.pde.core/target_platform_realization = 
+[2018-07-27 17:16:31] Performing Preference /instance/org.eclipse.pde.core/vm_args = 
+[2018-07-27 17:16:31] Performing Preference /instance/org.eclipse.pde.core/vm_launcher_ini = 
+[2018-07-27 17:16:31] Performing Preference /instance/org.eclipse.pde.ui/Preferences.MainPage.overwriteBuildFilesOnExport = prompt
+[2018-07-27 17:16:31] 
