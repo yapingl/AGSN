@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AGSN:SafetyCase xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AGSN="AGSN">
+  <rootBasicNode xsi:type="AGSN:Goal" assessstatus="Incorrect" qualityLevel="Medium" confidencePercentage="50" weight="1.0"/>
+  <rootBasicNode xsi:type="AGSN:Assumption" qualityLevel="High"/>
+  <rootBasicNode xsi:type="AGSN:Module" assessstatus="ReviewLater" qualityLevel="Low"/>
+  <rootBasicNode xsi:type="AGSN:Contract" assessstatus="Accepted" qualityLevel="Medium"/>
+  <rootBasicNode xsi:type="AGSN:AdditionalElement" assessstatus="Weak" qualityLevel="VeryHigh" attachment="/AGSN_demo/attachment.txt"/>
+  <rootCommendation xsi:type="AGSN:Question"/>
+  <rootCommendation xsi:type="AGSN:RequiredAction"/>
+  <rootCommendation xsi:type="AGSN:Weakness"/>
+</AGSN:SafetyCase>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:AGSN="AGSN" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_7YIIQJZnEeiAgMoLB4-OnQ" type="AGSN" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_7ZO7gJZnEeiAgMoLB4-OnQ" type="2007">
+    <children xmi:type="notation:DecorationNode" xmi:id="_7ZPikJZnEeiAgMoLB4-OnQ" type="5015"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_7ZPikZZnEeiAgMoLB4-OnQ" type="5016"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_7ZO7gZZnEeiAgMoLB4-OnQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_7ZO7gpZnEeiAgMoLB4-OnQ" fontName=".SF NS Text"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_7ZO7g5ZnEeiAgMoLB4-OnQ"/>
+    <element xmi:type="AGSN:Goal" href="Car1.agsn#_mxdRsNolEeWwT6rQ_uV_eQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7ZO7hJZnEeiAgMoLB4-OnQ" x="180"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_7ZQJoJZnEeiAgMoLB4-OnQ" type="2008">
+    <children xmi:type="notation:DecorationNode" xmi:id="_7ZQJpZZnEeiAgMoLB4-OnQ" type="5017"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_7ZQJppZnEeiAgMoLB4-OnQ" type="5018"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_7ZQJoZZnEeiAgMoLB4-OnQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_7ZQJopZnEeiAgMoLB4-OnQ" fontName=".SF NS Text"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_7ZQJo5ZnEeiAgMoLB4-OnQ"/>
+    <element xmi:type="AGSN:Strategy" href="Car1.agsn#_mxfG4dolEeWwT6rQ_uV_eQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7ZQJpJZnEeiAgMoLB4-OnQ" x="180" y="140"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_7ZQJp5ZnEeiAgMoLB4-OnQ" type="2010">
+    <children xmi:type="notation:DecorationNode" xmi:id="_7ZQJrJZnEeiAgMoLB4-OnQ" type="5021"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_7ZQJrZZnEeiAgMoLB4-OnQ" type="5022"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_7ZQJqJZnEeiAgMoLB4-OnQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_7ZQJqZZnEeiAgMoLB4-OnQ" fontName=".SF NS Text"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_7ZQJqpZnEeiAgMoLB4-OnQ"/>
+    <element xmi:type="AGSN:Context" href="Car1.agsn#_mxfG5NolEeWwT6rQ_uV_eQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7ZQJq5ZnEeiAgMoLB4-OnQ" y="280"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_7ZQwsJZnEeiAgMoLB4-OnQ" type="2007">
+    <children xmi:type="notation:DecorationNode" xmi:id="_7ZQwtZZnEeiAgMoLB4-OnQ" type="5015"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_7ZQwtpZnEeiAgMoLB4-OnQ" type="5016"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_7ZQwsZZnEeiAgMoLB4-OnQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_7ZQwspZnEeiAgMoLB4-OnQ" fontName=".SF NS Text"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_7ZQws5ZnEeiAgMoLB4-OnQ"/>
+    <element xmi:type="AGSN:Goal" href="Car1.agsn#_mxfG5dolEeWwT6rQ_uV_eQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7ZQwtJZnEeiAgMoLB4-OnQ" x="180" y="280"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_7ZQwt5ZnEeiAgMoLB4-OnQ" type="2019">
+    <children xmi:type="notation:DecorationNode" xmi:id="_7ZQwvJZnEeiAgMoLB4-OnQ" type="5039"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_7ZQwvZZnEeiAgMoLB4-OnQ" type="5040"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_7ZQwuJZnEeiAgMoLB4-OnQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_7ZQwuZZnEeiAgMoLB4-OnQ" fontName=".SF NS Text"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_7ZQwupZnEeiAgMoLB4-OnQ"/>
+    <element xmi:type="AGSN:Module" href="Car1.agsn#_sEhfENorEeWwT6rQ_uV_eQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7ZQwu5ZnEeiAgMoLB4-OnQ" x="360" y="280"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_lfJ0YJZoEeiAgMoLB4-OnQ" type="2009">
+    <children xmi:type="notation:DecorationNode" xmi:id="_lfJ0ZZZoEeiAgMoLB4-OnQ" type="5019"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_lfJ0ZpZoEeiAgMoLB4-OnQ" type="5020"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_lfJ0YZZoEeiAgMoLB4-OnQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_lfJ0YpZoEeiAgMoLB4-OnQ" fontName=".SF NS Text"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_lfJ0Y5ZoEeiAgMoLB4-OnQ"/>
+    <element xmi:type="AGSN:Evidence" href="Car1.agsn#_lfGKAJZoEeiAgMoLB4-OnQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lfJ0ZJZoEeiAgMoLB4-OnQ" x="270" y="378"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_7YIIQZZnEeiAgMoLB4-OnQ"/>
+  <element xmi:type="AGSN:SafetyCase" href="Car1.agsn#_3RN9QJZnEeiAgMoLB4-OnQ"/>
+  <edges xmi:type="notation:Edge" xmi:id="_7ZbIwJZnEeiAgMoLB4-OnQ" type="4001" source="_7ZQJoJZnEeiAgMoLB4-OnQ" target="_7ZQJp5ZnEeiAgMoLB4-OnQ">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_7ZbIwZZnEeiAgMoLB4-OnQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_7ZbIwpZnEeiAgMoLB4-OnQ" fontName=".SF NS Text"/>
+    <element xmi:type="AGSN:InContextOf" href="Car1.agsn#_3RXuQZZnEeiAgMoLB4-OnQ"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_7ZbIw5ZnEeiAgMoLB4-OnQ" points="[0, 0, 150, -60]$[-150, 60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_7aMk0JZnEeiAgMoLB4-OnQ" id="(0.25,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_7aMk0ZZnEeiAgMoLB4-OnQ" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_7ZdlAJZnEeiAgMoLB4-OnQ" type="4002" source="_7ZO7gJZnEeiAgMoLB4-OnQ" target="_7ZQJoJZnEeiAgMoLB4-OnQ">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_7ZdlAZZnEeiAgMoLB4-OnQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_7ZdlApZnEeiAgMoLB4-OnQ" fontName=".SF NS Text"/>
+    <element xmi:type="AGSN:SupportedBy" href="Car1.agsn#_3RXHMJZnEeiAgMoLB4-OnQ"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_7ZdlA5ZnEeiAgMoLB4-OnQ" points="[0, 0, 0, -60]$[0, 60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_7aMk0pZnEeiAgMoLB4-OnQ" id="(0.5,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_7aMk05ZnEeiAgMoLB4-OnQ" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_7ZezIJZnEeiAgMoLB4-OnQ" type="4002" source="_7ZQJoJZnEeiAgMoLB4-OnQ" target="_7ZQwt5ZnEeiAgMoLB4-OnQ">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_7ZezIZZnEeiAgMoLB4-OnQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_7ZezIpZnEeiAgMoLB4-OnQ" fontName=".SF NS Text"/>
+    <element xmi:type="AGSN:SupportedBy" href="Car1.agsn#_3RXuQJZnEeiAgMoLB4-OnQ"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_7ZezI5ZnEeiAgMoLB4-OnQ" points="[0, 0, -150, -60]$[150, 60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_7aL9wJZnEeiAgMoLB4-OnQ" id="(0.75,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_7aL9wZZnEeiAgMoLB4-OnQ" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_7ZgoUJZnEeiAgMoLB4-OnQ" type="4002" source="_7ZQJoJZnEeiAgMoLB4-OnQ" target="_7ZQwsJZnEeiAgMoLB4-OnQ">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_7ZgoUZZnEeiAgMoLB4-OnQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_7ZgoUpZnEeiAgMoLB4-OnQ" fontName=".SF NS Text"/>
+    <element xmi:type="AGSN:SupportedBy" href="Car1.agsn#_3RY8YJZnEeiAgMoLB4-OnQ"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_7ZgoU5ZnEeiAgMoLB4-OnQ" points="[0, 0, 0, -60]$[0, 60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_7aL9wpZnEeiAgMoLB4-OnQ" id="(0.5,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_7aL9w5ZnEeiAgMoLB4-OnQ" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_l8gewJZoEeiAgMoLB4-OnQ" type="4002" source="_7ZQwsJZnEeiAgMoLB4-OnQ" target="_lfJ0YJZoEeiAgMoLB4-OnQ">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_l8gewZZoEeiAgMoLB4-OnQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_l8gewpZoEeiAgMoLB4-OnQ" fontName=".SF NS Text"/>
+    <element xmi:type="AGSN:SupportedBy" href="Car1.agsn#_l8epkJZoEeiAgMoLB4-OnQ"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_l8gew5ZoEeiAgMoLB4-OnQ" points="[-6, -73, -51, -120]$[-6, -106, -51, -153]$[119, 7, 74, -40]$[85, 25, 40, -22]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_l8i7AJZoEeiAgMoLB4-OnQ" id="(0.7833333333333333,0.9125)"/>
+  </edges>
+</notation:Diagram>

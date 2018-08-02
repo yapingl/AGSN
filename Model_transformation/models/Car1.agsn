@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AGSN:SafetyCase xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AGSN="AGSN" id="_3RN9QJZnEeiAgMoLB4-OnQ">
+  <rootBasicNode xsi:type="AGSN:Goal" id="_mxdRsNolEeWwT6rQ_uV_eQ" name="G_1" assessstatus="Accepted" description="System [Car] is safe" confidencePercentage="80"/>
+  <rootBasicNode xsi:type="AGSN:Strategy" id="_mxfG4dolEeWwT6rQ_uV_eQ" name="S_1" assessstatus="Accepted" description="Argument by claiming addressed &#xD;&#xA;all identified plausible hazards" confidencePercentage="20"/>
+  <rootBasicNode xsi:type="AGSN:Context" id="_mxfG5NolEeWwT6rQ_uV_eQ" name="C_1" assessstatus="Accepted" description="Identified Hazards for System [Car]" confidencePercentage="40"/>
+  <rootBasicNode xsi:type="AGSN:Goal" id="_mxfG5dolEeWwT6rQ_uV_eQ" name="G_3" assessstatus="Accepted" description="Hazard [Braking] has been addressed" qualityLevel="Low" weight="0.2"/>
+  <rootBasicNode xsi:type="AGSN:Module" id="_sEhfENorEeWwT6rQ_uV_eQ" name="SubModule" assessstatus="Weak" description="Hazard [Running] has been addressed" qualityLevel="Low" confidencePercentage="60" attachment="/ModelTransformation/models/Car/SubModule.agsn_diagram"/>
+  <rootBasicNode xsi:type="AGSN:Evidence" id="_lfGKAJZoEeiAgMoLB4-OnQ" assessstatus="Accepted"/>
+  <rootBasicLink xsi:type="AGSN:InContextOf" source="_mxdRsNolEeWwT6rQ_uV_eQ" id="_3RVSAJZnEeiAgMoLB4-OnQ"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_mxdRsNolEeWwT6rQ_uV_eQ" target="_mxfG4dolEeWwT6rQ_uV_eQ" id="_3RXHMJZnEeiAgMoLB4-OnQ"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_mxfG4dolEeWwT6rQ_uV_eQ" target="_sEhfENorEeWwT6rQ_uV_eQ" id="_3RXuQJZnEeiAgMoLB4-OnQ"/>
+  <rootBasicLink xsi:type="AGSN:InContextOf" source="_mxfG4dolEeWwT6rQ_uV_eQ" target="_mxfG5NolEeWwT6rQ_uV_eQ" id="_3RXuQZZnEeiAgMoLB4-OnQ"/>
+  <rootBasicLink xsi:type="AGSN:InContextOf" source="_mxfG5dolEeWwT6rQ_uV_eQ" id="_3RYVUJZnEeiAgMoLB4-OnQ"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_mxfG4dolEeWwT6rQ_uV_eQ" target="_mxfG5dolEeWwT6rQ_uV_eQ" id="_3RY8YJZnEeiAgMoLB4-OnQ"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_mxfG5dolEeWwT6rQ_uV_eQ" target="_lfGKAJZoEeiAgMoLB4-OnQ" id="_l8epkJZoEeiAgMoLB4-OnQ"/>
+</AGSN:SafetyCase>

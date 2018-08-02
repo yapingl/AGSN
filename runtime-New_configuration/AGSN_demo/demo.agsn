@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AGSN:SafetyCase xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AGSN="AGSN" description="" id="_3nTUEAMPEea3dvtaAc1Tjw">
+  <rootBasicNode xsi:type="AGSN:Goal" id="_3nW-cAMPEea3dvtaAc1Tjw" name="G1" assessstatus="Accepted" description="This is a goal" beliefDegree="{(Very Low, 0.3318), (Low, 0.0615), (Medium, 0.2704), (High, 0.1621), (Very High, 0.0)}"/>
+  <rootBasicNode xsi:type="AGSN:Evidence" id="_3nXlgAMPEea3dvtaAc1Tjw" name="E4" assessstatus="Weak" qualityLevel="Medium" confidencePercentage="80" weight="0.5" beliefDegree="{(Very Low, 0.0), (Low, 0.0), (Medium, 0.8), (High, 0.0), (Very High, 0.0)}"/>
+  <rootBasicNode xsi:type="AGSN:Context" id="_3naBwAMPEea3dvtaAc1Tjw" assessstatus="Accepted"/>
+  <rootBasicNode xsi:type="AGSN:Assumption" id="_3nb28AMPEea3dvtaAc1Tjw" assessstatus="ReviewLater" qualityLevel="Medium"/>
+  <rootBasicNode xsi:type="AGSN:Evidence" id="_3nceAAMPEea3dvtaAc1Tjw" name="E1" assessstatus="Accepted" qualityLevel="High" confidencePercentage="60" weight="0.5" beliefDegree="{(Very Low, 0.0), (Low, 0.0), (Medium, 0.0), (High, 0.6), (Very High, 0.0)}" attachment="http://www.dcase.jp/"/>
+  <rootBasicNode xsi:type="AGSN:Goal" id="_3ndsIAMPEea3dvtaAc1Tjw" name="G2" qualityLevel="Medium" weight="0.4" beliefDegree="{(Very Low, 0.0), (Low, 0.1949), (Medium, 0.0), (High, 0.5138), (Very High, 0.0)}"/>
+  <rootBasicNode xsi:type="AGSN:Goal" id="_3neTMAMPEea3dvtaAc1Tjw" name="G3" assessstatus="Accepted" qualityLevel="Medium" weight="0.6" beliefDegree="{(Very Low, 0.4737), (Low, 0.0), (Medium, 0.386), (High, 0.0), (Very High, 0.0)}"/>
+  <rootBasicNode xsi:type="AGSN:Evidence" id="_3ne6QAMPEea3dvtaAc1Tjw" name="E5" assessstatus="Weak" confidencePercentage="90" weight="0.5" beliefDegree="{(Very Low, 0.9), (Low, 0.0), (Medium, 0.0), (High, 0.0), (Very High, 0.0)}"/>
+  <rootBasicNode xsi:type="AGSN:Evidence" id="_3nfhUAMPEea3dvtaAc1Tjw" name="E2" assessstatus="Weak" qualityLevel="Low" confidencePercentage="70" weight="0.3" beliefDegree="{(Very Low, 0.0), (Low, 0.7), (Medium, 0.0), (High, 0.0), (Very High, 0.0)}"/>
+  <rootBasicNode xsi:type="AGSN:Evidence" id="_3ngIYAMPEea3dvtaAc1Tjw" name="E3" assessstatus="Accepted" description="" qualityLevel="High" confidencePercentage="80" weight="0.2" beliefDegree="{(Very Low, 0.0), (Low, 0.0), (Medium, 0.0), (High, 0.8), (Very High, 0.0)}"/>
+  <rootBasicNode xsi:type="AGSN:Strategy" id="_nBbXMA31EeaIUZ9DmNVARg" assessstatus="Weak" qualityLevel="High" beliefDegree="{(Very Low, 0.3318), (Low, 0.0615), (Medium, 0.2704), (High, 0.1621), (Very High, 0.0)}"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_3ndsIAMPEea3dvtaAc1Tjw" target="_3nceAAMPEea3dvtaAc1Tjw" id="_3njLsAMPEea3dvtaAc1Tjw"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_3neTMAMPEea3dvtaAc1Tjw" target="_3nXlgAMPEea3dvtaAc1Tjw" id="_3njLsQMPEea3dvtaAc1Tjw"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_3neTMAMPEea3dvtaAc1Tjw" target="_3ne6QAMPEea3dvtaAc1Tjw" id="_3njywAMPEea3dvtaAc1Tjw"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_3ndsIAMPEea3dvtaAc1Tjw" target="_3nfhUAMPEea3dvtaAc1Tjw" id="_3njywQMPEea3dvtaAc1Tjw"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_3ndsIAMPEea3dvtaAc1Tjw" target="_3ngIYAMPEea3dvtaAc1Tjw" id="_3nkZ0AMPEea3dvtaAc1Tjw"/>
+  <rootBasicLink xsi:type="AGSN:InContextOf" source="_3nW-cAMPEea3dvtaAc1Tjw" target="_3nb28AMPEea3dvtaAc1Tjw" id="_3nkZ0QMPEea3dvtaAc1Tjw"/>
+  <rootBasicLink xsi:type="AGSN:InContextOf" source="_3nW-cAMPEea3dvtaAc1Tjw" target="_3naBwAMPEea3dvtaAc1Tjw" id="_3nlA4AMPEea3dvtaAc1Tjw"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_nBbXMA31EeaIUZ9DmNVARg" target="_3ndsIAMPEea3dvtaAc1Tjw" id="_B5isIAQREeaJ1b2rSJp5sw"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_nBbXMA31EeaIUZ9DmNVARg" target="_3neTMAMPEea3dvtaAc1Tjw" id="_JWqlAAQREeaJ1b2rSJp5sw"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_3nW-cAMPEea3dvtaAc1Tjw" target="_nBbXMA31EeaIUZ9DmNVARg" id="_qcdToA31EeaIUZ9DmNVARg"/>
+</AGSN:SafetyCase>

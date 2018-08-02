@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:AGSN="AGSN" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_z5m4MEkJEea2otc5vhWASA" type="AGSN" name="default.agsn_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_0pSBoEkJEea2otc5vhWASA" type="2007">
+    <children xmi:type="notation:DecorationNode" xmi:id="_0pT20EkJEea2otc5vhWASA" type="5015"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_0pT20UkJEea2otc5vhWASA" type="5016"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_0pSBoUkJEea2otc5vhWASA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_0pSBokkJEea2otc5vhWASA" fontName=".SF NS Text"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_0pSBo0kJEea2otc5vhWASA"/>
+    <element xmi:type="AGSN:Goal" href="default.agsn#_0pOXQEkJEea2otc5vhWASA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0pSBpEkJEea2otc5vhWASA" x="135" y="27"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_06Zm0EkJEea2otc5vhWASA" type="2009">
+    <children xmi:type="notation:DecorationNode" xmi:id="_06Zm1UkJEea2otc5vhWASA" type="5019"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_06Zm1kkJEea2otc5vhWASA" type="5020"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_06Zm0UkJEea2otc5vhWASA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_06Zm0kkJEea2otc5vhWASA" fontName=".SF NS Text"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_06Zm00kJEea2otc5vhWASA"/>
+    <element xmi:type="AGSN:Evidence" href="default.agsn#_06XxoEkJEea2otc5vhWASA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_06Zm1EkJEea2otc5vhWASA" x="243" y="144"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_1K0BYEkJEea2otc5vhWASA" type="2009">
+    <children xmi:type="notation:DecorationNode" xmi:id="_1K0ocEkJEea2otc5vhWASA" type="5019"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_1K0ocUkJEea2otc5vhWASA" type="5020"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_1K0BYUkJEea2otc5vhWASA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_1K0BYkkJEea2otc5vhWASA" fontName=".SF NS Text"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_1K0BY0kJEea2otc5vhWASA"/>
+    <element xmi:type="AGSN:Evidence" href="default.agsn#_1KyzQEkJEea2otc5vhWASA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1K0BZEkJEea2otc5vhWASA" x="81" y="144"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_z5nfQEkJEea2otc5vhWASA"/>
+  <element xmi:type="AGSN:SafetyCase" href="default.agsn#_z5lqEEkJEea2otc5vhWASA"/>
+  <edges xmi:type="notation:Edge" xmi:id="_15HR0EkJEea2otc5vhWASA" type="4002" source="_0pSBoEkJEea2otc5vhWASA" target="_06Zm0EkJEea2otc5vhWASA">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_15HR0UkJEea2otc5vhWASA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_15HR0kkJEea2otc5vhWASA" fontName=".SF NS Text"/>
+    <element xmi:type="AGSN:SupportedBy" href="default.agsn#_15DAYEkJEea2otc5vhWASA"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_15HR00kJEea2otc5vhWASA" points="[33, 40, 33, 40]$[33, 40, 33, 40]"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2OgTAEkJEea2otc5vhWASA" id="(0.35,0.225)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_2e0m8EkJEea2otc5vhWASA" type="4002" source="_0pSBoEkJEea2otc5vhWASA" target="_1K0BYEkJEea2otc5vhWASA">
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_2e0m8UkJEea2otc5vhWASA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_2e0m8kkJEea2otc5vhWASA" fontName=".SF NS Text"/>
+    <element xmi:type="AGSN:SupportedBy" href="default.agsn#_2ezY0EkJEea2otc5vhWASA"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2e0m80kJEea2otc5vhWASA" points="[-43, 40, -43, 40]$[-43, 40, -43, 40]"/>
+  </edges>
+</notation:Diagram>

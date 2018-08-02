@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AGSN:SafetyCase xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AGSN="AGSN" id="_lQtBYCcYEeaVUNJHPAFwMw">
+  <rootBasicNode xsi:type="AGSN:Goal" id="_c2kRMCcZEeaVUNJHPAFwMw" name="G_1" assessstatus="Weak" beliefDegree="{(Very Low, 0.0), (Low, 0.2073), (Medium, 0.0), (High, 0.3343), (Very High, 0.1486)}"/>
+  <rootBasicNode xsi:type="AGSN:Evidence" id="_fI45ICcZEeaVUNJHPAFwMw" assessstatus="Accepted" description="E_1" qualityLevel="High" confidencePercentage="60" weight="0.5" beliefDegree="{(Very Low, 0.0), (Low, 0.0), (Medium, 0.0), (High, 0.6), (Very High, 0.0)}" attachment=""/>
+  <rootBasicNode xsi:type="AGSN:Evidence" id="_fVg_4CcZEeaVUNJHPAFwMw" assessstatus="Accepted" description="E_2" qualityLevel="VeryHigh" confidencePercentage="80" weight="0.2" beliefDegree="{(Very Low, 0.0), (Low, 0.0), (Medium, 0.0), (High, 0.0), (Very High, 0.8)}"/>
+  <rootBasicNode xsi:type="AGSN:Evidence" id="_fkRNkCcZEeaVUNJHPAFwMw" assessstatus="Weak" description="E_3" qualityLevel="Low" confidencePercentage="70" weight="0.3" beliefDegree="{(Very Low, 0.0), (Low, 0.7), (Medium, 0.0), (High, 0.0), (Very High, 0.0)}"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_c2kRMCcZEeaVUNJHPAFwMw" target="_fI45ICcZEeaVUNJHPAFwMw" id="_gzARkCcZEeaVUNJHPAFwMw"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_c2kRMCcZEeaVUNJHPAFwMw" target="_fkRNkCcZEeaVUNJHPAFwMw" id="_hHgh8CcZEeaVUNJHPAFwMw"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_c2kRMCcZEeaVUNJHPAFwMw" target="_fVg_4CcZEeaVUNJHPAFwMw" id="_hc3t8CcZEeaVUNJHPAFwMw"/>
+</AGSN:SafetyCase>

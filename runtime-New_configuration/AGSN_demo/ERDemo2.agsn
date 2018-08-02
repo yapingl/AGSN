@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AGSN:SafetyCase xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:AGSN="AGSN" id="_hwXb0AVmEeaPINQYBa4SYg">
+  <rootBasicNode xsi:type="AGSN:Goal" id="_hwZ4EAVmEeaPINQYBa4SYg" name="G1" assessstatus="Accepted" description="Risk of smart house is reduced to allowable level" beliefDegree="{(Very Low, 0.0), (Low, 0.0), (Medium, 0.4962), (High, 0.1856), (Very High, 0.2278)}"/>
+  <rootBasicNode xsi:type="AGSN:Strategy" id="_hwafIAVmEeaPINQYBa4SYg" name="S1" assessstatus="Accepted" description="Discuss according to hazards" beliefDegree="{(Very Low, 0.0), (Low, 0.0), (Medium, 0.4962), (High, 0.1856), (Very High, 0.2278)}"/>
+  <rootBasicNode xsi:type="AGSN:Goal" id="_hwbtQQVmEeaPINQYBa4SYg" name="G2" assessstatus="Weak" description="Hazard list contains all possible hazards" beliefDegree="{(Very Low, 0.0), (Low, 0.0), (Medium, 0.95), (High, 0.0), (Very High, 0.0)}"/>
+  <rootBasicNode xsi:type="AGSN:Goal" id="_hwcUUAVmEeaPINQYBa4SYg" name="G3" assessstatus="Accepted" description="For each hazard, risk of hazard is reduced to allowable level" beliefDegree="{(Very Low, 0.0), (Low, 0.0), (Medium, 0.0), (High, 0.386), (Very High, 0.4737)}"/>
+  <rootBasicNode xsi:type="AGSN:Evidence" id="_hwdicAVmEeaPINQYBa4SYg" name="E1" assessstatus="Accepted" description="Hazard list of &quot;Abstract level&quot; contains 17 hazards" qualityLevel="Medium" confidencePercentage="95" weight="1.0" beliefDegree="{(Very Low, 0.0), (Low, 0.0), (Medium, 0.95), (High, 0.0), (Very High, 0.0)}"/>
+  <rootBasicNode xsi:type="AGSN:Evidence" id="_hwewkAVmEeaPINQYBa4SYg" name="E2" assessstatus="Weak" description="Assurance case (2), (3)" qualityLevel="High" confidencePercentage="80" weight="0.5" beliefDegree="{(Very Low, 0.0), (Low, 0.0), (Medium, 0.0), (High, 0.8), (Very High, 0.0)}"/>
+  <rootBasicNode xsi:type="AGSN:Evidence" id="_hwf-sAVmEeaPINQYBa4SYg" name="E3" assessstatus="Accepted" description="Assurance  case (4)" qualityLevel="VeryHigh" confidencePercentage="90" weight="0.5" beliefDegree="{(Very Low, 0.0), (Low, 0.0), (Medium, 0.0), (High, 0.0), (Very High, 0.9)}"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_hwZ4EAVmEeaPINQYBa4SYg" target="_hwafIAVmEeaPINQYBa4SYg" id="_hwhM0AVmEeaPINQYBa4SYg"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_hwafIAVmEeaPINQYBa4SYg" target="_hwbtQQVmEeaPINQYBa4SYg" id="_hwjpEAVmEeaPINQYBa4SYg"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_hwafIAVmEeaPINQYBa4SYg" target="_hwcUUAVmEeaPINQYBa4SYg" id="_hwjpEQVmEeaPINQYBa4SYg"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_hwcUUAVmEeaPINQYBa4SYg" target="_hwf-sAVmEeaPINQYBa4SYg" id="_hwk3MAVmEeaPINQYBa4SYg"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_hwcUUAVmEeaPINQYBa4SYg" target="_hwewkAVmEeaPINQYBa4SYg" id="_hwk3MQVmEeaPINQYBa4SYg"/>
+  <rootBasicLink xsi:type="AGSN:SupportedBy" source="_hwbtQQVmEeaPINQYBa4SYg" target="_hwdicAVmEeaPINQYBa4SYg" id="_hwleQAVmEeaPINQYBa4SYg"/>
+</AGSN:SafetyCase>

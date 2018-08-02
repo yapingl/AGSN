@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:AGSN="AGSN" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_qy1y0DFhEeaRc-Gph3XN8g" type="AGSN" measurementUnit="Pixel">
-  <children xmi:type="notation:Node" xmi:id="_q0BekDFhEeaRc-Gph3XN8g" type="2007">
-    <children xmi:type="notation:DecorationNode" xmi:id="_q0CFoDFhEeaRc-Gph3XN8g" type="5015"/>
-    <children xmi:type="notation:DecorationNode" xmi:id="_q0CFoTFhEeaRc-Gph3XN8g" type="5016"/>
-    <styles xmi:type="notation:DescriptionStyle" xmi:id="_q0BekTFhEeaRc-Gph3XN8g"/>
-    <styles xmi:type="notation:FontStyle" xmi:id="_q0BekjFhEeaRc-Gph3XN8g" fontName="微软雅黑"/>
-    <styles xmi:type="notation:LineStyle" xmi:id="_q0BekzFhEeaRc-Gph3XN8g"/>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:AGSN="AGSN" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_-FS5IJZnEeiAgMoLB4-OnQ" type="AGSN" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_-GP7YJZnEeiAgMoLB4-OnQ" type="2007">
+    <children xmi:type="notation:DecorationNode" xmi:id="_-GQicJZnEeiAgMoLB4-OnQ" type="5015"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_-GQicZZnEeiAgMoLB4-OnQ" type="5016"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_-GP7YZZnEeiAgMoLB4-OnQ"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_-GP7YpZnEeiAgMoLB4-OnQ" fontName=".SF NS Text"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_-GP7Y5ZnEeiAgMoLB4-OnQ"/>
     <element xmi:type="AGSN:Goal" href="SubModule.agsn#_sDBqQNorEeWwT6rQ_uV_eQ"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_q0BelDFhEeaRc-Gph3XN8g" x="260" y="105"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-GP7ZJZnEeiAgMoLB4-OnQ" x="207" y="117"/>
   </children>
-  <styles xmi:type="notation:DiagramStyle" xmi:id="_qy1y0TFhEeaRc-Gph3XN8g"/>
-  <element xmi:type="AGSN:SafetyCase" href="SubModule.agsn#_pW6AUDFhEeaRc-Gph3XN8g"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_-FS5IZZnEeiAgMoLB4-OnQ"/>
+  <element xmi:type="AGSN:SafetyCase" href="SubModule.agsn#_3R_ZUJZnEeiAgMoLB4-OnQ"/>
 </notation:Diagram>
